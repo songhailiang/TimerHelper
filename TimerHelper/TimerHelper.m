@@ -22,7 +22,7 @@ static NSMutableDictionary *timers;
 /**
  *  验证码倒计时（单位：秒）
  */
-const int kVerifyCodeCountDownSeconds = 60; //60秒
+const int kVerifyCodeCountDownSeconds = 60;
 
 
 @implementation TimerHelper

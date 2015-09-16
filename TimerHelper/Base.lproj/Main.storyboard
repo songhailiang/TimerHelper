@@ -32,16 +32,16 @@
                             <constraint firstItem="OcK-tt-NPI" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="30" id="fFA-AQ-BXE"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" id="lpm-gr-Wgd"/>
+                    <navigationItem key="navigationItem" title="首页" id="lpm-gr-Wgd"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1052" y="541"/>
         </scene>
-        <!--View Controller-->
+        <!--用户注册-->
         <scene sceneID="fKE-aS-qWb">
             <objects>
-                <viewController id="wmC-5Y-prH" customClass="ViewController" sceneMemberID="viewController">
+                <viewController title="用户注册" id="wmC-5Y-prH" customClass="ViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="T6d-PU-JHT"/>
                         <viewControllerLayoutGuide type="bottom" id="5sw-YA-1xp"/>
